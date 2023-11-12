@@ -1,0 +1,28 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "Svg logo maker using Inquirer prompts to select logo specifications",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PengasKhan/SVG-Logo-Maker.git"
+  },
+  "author": "Connor Ness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PengasKhan/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/PengasKhan/SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
