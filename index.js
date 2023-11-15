@@ -1,4 +1,4 @@
-const Shape = require('./lib/shapes')
+const { Shape } = require("./lib/shapes");
 
 const shape = new Shape();
 
